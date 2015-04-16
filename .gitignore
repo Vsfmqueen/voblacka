@@ -1,0 +1,12 @@
+target/
+.settings/
+.project
+*/.settings/
+*/.checkstyle
+*/.classpath
+*/test-output/
+.idea/
+*.iml
+*/.gitignore
+.idea/libraries
+out/
